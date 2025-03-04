@@ -12,6 +12,6 @@ public class PrjClasses {
 
     public static void main(String[] args) {
         
-        ;
+        System.out.println("Hello world! I just did github and hate reece now :) ");
     }
 }
